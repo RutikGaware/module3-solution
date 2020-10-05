@@ -1,0 +1,42 @@
+body
+{
+	font-family: 'Balsamiq Sans';
+	color: #000;
+}
+#header-nav
+{
+	height: 100px;
+	color: #000;
+	background-color: #8C8C84;
+	border: 2px solid #000;
+	border-radius: 0px;
+}
+.navbar-brand h1
+{
+	color: #000;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+div h2
+{
+	margin-top: 150px;
+}
+li a span
+{
+	color: #000;
+}
+#style-row
+{	
+	background-color: #8C8C84;
+	margin: 15px;
+	padding: 10px;
+}
+#header-nav button.navbar-toggle, #header-nav .icon-bar
+{
+	border: 1px solid #000;
+	clear: both;
+}
+#collapsed-nav
+{
+	clear: both;
+}
